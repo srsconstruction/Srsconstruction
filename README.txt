@@ -1,0 +1,1 @@
+SRS Construction final static premium website. Logo and hero image are embedded directly in index.html, with PNG backups included. Open index.html or upload the complete folder contents to hosting.
